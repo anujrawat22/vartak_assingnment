@@ -27,10 +27,16 @@
   ### Installation 
    1. Clone the repo
       **git clone https://github.com/anujrawat22/vartak_assingnment.git**
-      
-   2. Install all the dependencies with the command - **_npm i_**
 
-   3. Start the app with the command - **_npm start_**
+   2.  set up environment variables by creating a `.env` file
+      and add the following to the .env file
+    > PORT = 8080
+    > SECRET_KEY = token_secret_key
+    > MONGO_URL = your mongo URL
+      
+   3. Install all the dependencies with the command - **_npm i_**
+
+   4. Start the app with the command - **_npm start_**
   
 
 
