@@ -20,6 +20,7 @@
    * Node.js
    * Express.js
    * MongoDB Atlas
+   * TypeScript
 
 ## Getting Started
 
