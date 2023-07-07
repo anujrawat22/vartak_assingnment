@@ -29,10 +29,10 @@
       **git clone https://github.com/anujrawat22/vartak_assingnment.git**
 
    2.  set up environment variables by creating a `.env` file
-      and add the following to the .env file
-    > PORT = 8080
-    > SECRET_KEY = token_secret_key
-    > MONGO_URL = your mongo URL
+      and add the following to the .env file <br />
+      * PORT = 8080 <br />
+      * SECRET_KEY = token_secret_key <br />
+      * MONGO_URL = your mongo URL <br />
       
    3. Install all the dependencies with the command - **_npm i_**
 
