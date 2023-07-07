@@ -6,6 +6,7 @@
   * Getting started
   * API Endpoints
   * Deployed Link
+  * Dummy User Credentails 
 
 
 ## About the project
@@ -43,6 +44,13 @@
 
 ## Deployed Link -  https://library-app-vjot.onrender.com
 
+## Dummy User Credentails
+
+ ### Role - `VIEWER` and `CREATOR`
+     > email : "anuj22rawat20@gmail.com" password : "anuj"
+
+### Role - `VIEW_ALL`
+    > email : "admin@gmail.com" password : "admin"
 
 
 
