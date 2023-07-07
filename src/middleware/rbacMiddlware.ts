@@ -5,7 +5,6 @@ export const rbacMiddleware = (requiredRoles: UserRole[]) => {
     return async (req: Request, res: Response, next: NextFunction) => {
       try {
         const roles = req.body.roles
-        console.log(roles)
         // Check if the user has the required role
         const hasRequiredRole = requiredRoles.some((role) => roles.includes(role));
         if (!hasRequiredRole) {

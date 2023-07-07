@@ -1,6 +1,6 @@
 import { Request, Response } from "express";
 import { Book } from "../models/bookModel";
-import { User,UserRole } from "../models/userModel";
+import { UserRole } from "../models/userModel";
 
 export const createBooks = async (req: Request, res: Response) => {
   try {
